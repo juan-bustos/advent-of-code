@@ -1,3 +1,3 @@
-declare function findHighestVoltage(input: string): number;
-export default findHighestVoltage;
+declare function totalJoltageKBig(input: string, k?: number): bigint;
+export default totalJoltageKBig;
 //# sourceMappingURL=day3.d.ts.map
